@@ -16,7 +16,10 @@
 				"D:/Epic Games/MP2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/BP_Collectible.uasset",
 				"D:/Epic Games/MP2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/BP_coin.uasset",
 				"D:/Epic Games/MP2/UnrealLearningKit/Content/Hour_of_Code/Blueprints/BP_coin.uasset",
-				"D:/Epic Games/MP2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/WBP_ScoreDisplay.uasset"
+				"D:/Epic Games/MP2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/WBP_ScoreDisplay.uasset",
+				"D:/Epic Games/MP2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_Pursuer.uasset",
+				"D:/Epic Games/MP2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/EAIstate.uasset",
+				"D:/Epic Games/MP2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/Pursuer_AIController.uasset"
 			]
 		}
 	]
