@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Epic Games/MP2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/BP_HealthPack.uasset",
+				"D:/Epic Games/MP2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"D:/Epic Games/MP2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/WBP_GameOver.uasset",
+				"D:/Epic Games/MP2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/WBP_HealthBar.uasset",
+				"D:/Epic Games/MP2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/M_HealthPack.uasset",
+				"D:/Epic Games/MP2/UnrealLearningKit/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
+				"D:/Epic Games/MP2/UnrealLearningKit/Content/LearningKit_Games/Maps/MyPlatFormerLevel.umap",
+				"D:/Epic Games/MP2/UnrealLearningKit/Content/LearningKit_Games/Maps/SM_FloatingIsland_L.uasset",
+				"D:/Epic Games/MP2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/BP_Collectible.uasset",
+				"D:/Epic Games/MP2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/BP_coin.uasset",
+				"D:/Epic Games/MP2/UnrealLearningKit/Content/Hour_of_Code/Blueprints/BP_coin.uasset",
+				"D:/Epic Games/MP2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/WBP_ScoreDisplay.uasset"
+			]
+		}
+	]
+}
