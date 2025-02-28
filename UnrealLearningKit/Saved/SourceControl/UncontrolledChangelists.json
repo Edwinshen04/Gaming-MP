@@ -13,13 +13,20 @@
 				"D:/Epic Games/MP2/UnrealLearningKit/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
 				"D:/Epic Games/MP2/UnrealLearningKit/Content/LearningKit_Games/Maps/MyPlatFormerLevel.umap",
 				"D:/Epic Games/MP2/UnrealLearningKit/Content/LearningKit_Games/Maps/SM_FloatingIsland_L.uasset",
-				"D:/Epic Games/MP2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/BP_Collectible.uasset",
 				"D:/Epic Games/MP2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/BP_coin.uasset",
 				"D:/Epic Games/MP2/UnrealLearningKit/Content/Hour_of_Code/Blueprints/BP_coin.uasset",
 				"D:/Epic Games/MP2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/WBP_ScoreDisplay.uasset",
 				"D:/Epic Games/MP2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_Pursuer.uasset",
 				"D:/Epic Games/MP2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/EAIstate.uasset",
-				"D:/Epic Games/MP2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/Pursuer_AIController.uasset"
+				"D:/Epic Games/MP2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/Pursuer_AIController.uasset",
+				"D:/Epic Games/MP2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_Mortar.uasset",
+				"D:/Epic Games/MP2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_MortarProjectile.uasset",
+				"D:/Epic Games/UE_5.5/Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialParticleSystem.uasset",
+				"D:/Epic Games/MP2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_Spike.uasset",
+				"D:/Epic Games/MP2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_FinalGate.uasset",
+				"D:/Epic Games/MP2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/WBP_Restart.uasset",
+				"D:/Epic Games/MP2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/WBP_Pass.uasset",
+				"D:/Epic Games/MP2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/BP_Collectible.uasset"
 			]
 		}
 	]
